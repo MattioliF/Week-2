@@ -1,0 +1,30 @@
+h1 {
+  color: #14213D;
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+  font-size: 50px;
+  line-height: 1.6px;
+  text-align: center;
+}
+
+h2{
+  color: #FCA311;
+  font-family: 'Karla', sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 1.5px;
+  text-align: center;
+}
+p{
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+ul{
+  color: black;
+  font-family: "Lato", sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
